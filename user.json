@@ -1,0 +1,10 @@
+  {
+    "Name": "Nikhil",
+    "Age": 23,
+    "isProgrammer": true,
+    "hobbies":["Reading","Bowling"] ,
+    "friend":[
+        {"name":"DSA"},{"isProgrammer":false}
+    ]
+
+  } 
